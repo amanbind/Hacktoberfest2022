@@ -6,7 +6,7 @@
     --gray:#fafafa;
     --text:black;
     --box:#feeef2;
-    --box-hover:#fe0c43;
+    --box-hover:#fe0cea;
     --nav-color:rgb(255, 230, 230);
     --footer-color:#ededed
 }
@@ -16,7 +16,7 @@
     --gray:black;
     --text:rgb(242, 244, 251);
     --box:rgb(61 62 73);
-    --box-hover:rgb(57 148 255);
+    --box-hover:rgb(57, 255, 153);
     --nav-color:#1e1e28;
     --footer-color:#ededed;
     --container-text:#ffb3c6
